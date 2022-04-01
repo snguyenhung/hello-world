@@ -10,4 +10,4 @@
 
 This is an example of a GitHub repository.
 
-I'm Hung <3 <3
+I'm Hung!
